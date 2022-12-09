@@ -1,0 +1,17 @@
+{
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  },
+  "scripts": {
+    "init": "tsc --init"
+  },
+  "name": "functional-programming-patterns",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "rene.souza@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "global": "^4.4.0",
+    "ts-node": "^10.9.1"
+  }
+}
