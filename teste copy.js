@@ -1,4 +1,0 @@
-class Rigth{}
-
-class Left {}
-
